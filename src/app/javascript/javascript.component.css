@@ -1,0 +1,17 @@
+.container{
+    float: left;
+    margin-left: 200px;
+    margin-top: 50px;
+    background-color: rgb(238, 236, 236);
+}
+
+button{
+    background-color: #F5C40D;
+    width: 120px;
+    height: 30px;
+    border: none;
+}
+
+button:hover{
+    border: 2px solid black;
+}
